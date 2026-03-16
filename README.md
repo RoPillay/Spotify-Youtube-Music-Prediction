@@ -72,3 +72,41 @@ The dashboard is not currently deployed because hosting required a paid cloud se
 
 ---
 
+## Documentation
+
+📄 **Final Report**  
+[View the report](https://docs.google.com/document/d/1MPvJaH9XmbWt3SHa8Dd1ig7KRyGsBZMiOz_VJvmv5Jo/edit?tab=t.0)
+
+📊 **Project Presentation**  
+[View the slides](https://docs.google.com/presentation/d/1x71Ixo0CMmUvKcNXzTrJ3J_EArBzcNPD/edit?slide=id.p1#slide=id.p1)
+
+---
+
+## Technologies Used
+
+**Languages**
+- Python
+
+**Libraries**
+- Pandas
+- NumPy
+- Scikit-learn
+- XGBoost
+- Librosa
+- Dash
+- Plotly
+
+**APIs**
+- Spotify Web API
+- YouTube Data API
+- Genius API
+
+---
+
+## Future Work
+
+Potential improvements include:
+
+- deploying the dashboard using scalable cloud infrastructure
+- incorporating social media signals into prediction models
+- improving recommendation systems using hybrid similarity matrices
