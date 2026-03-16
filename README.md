@@ -35,8 +35,9 @@ This allows us to analyze both **musical characteristics and listener behavior**
 
 ---
 
-## Machine Learning Models
+## Machine Learning Models and Modeling Approaches
 
+Feature engineering included interaction variables, audio embeddings, lyric embeddings, and engagement-based metrics.
 We evaluated several models, including:
 
 - Random Forest
@@ -44,7 +45,7 @@ We evaluated several models, including:
 - XGBoost
 - CatBoost
 - LightGBM
-- Bayesian Optimization
+- Bayesian Optimization (Optuna hyperparameter tuning)
 
 The **final XGBoost model** performed best.
 
@@ -93,6 +94,8 @@ The dashboard is not currently deployed because hosting required a paid cloud se
 - Scikit-learn
 - XGBoost
 - Librosa
+
+**Visualization**
 - Dash
 - Plotly
 
