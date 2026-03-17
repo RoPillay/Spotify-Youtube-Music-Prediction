@@ -88,21 +88,32 @@ The dashboard is not currently deployed because hosting required a paid cloud se
 **Languages**
 - Python
 
-**Libraries**
+**Data Processing & Machine Learning**
 - Pandas
 - NumPy
 - Scikit-learn
 - XGBoost
+- Optuna (Bayesian optimization)
+
+**Deep Learning**
+- PyTorch
+
+**Audio Processing**
 - Librosa
+- SciPy
 
-**Visualization**
-- Dash
-- Plotly
-
-**APIs**
+**Data Collection & APIs**
+- Requests
+- HTML inspection (for scraping and cookie handling)
 - Spotify Web API
-- YouTube Data API
+- YouTube Data API 
 - Genius API
+  
+**Visualization & Dashboard**
+- Matplotlib
+- Seaborn
+- Plotly
+- Dash
 
 ---
 
