@@ -68,17 +68,17 @@ We built an **interactive dashboard using Dash and Plotly** that allows users to
 - upload songs for prediction
 - search artists and tracks
 
-⚠️ **Note:**  
+ **Note:**  
 The dashboard is not currently deployed because hosting required a paid cloud service due to the large machine learning models and audio embeddings used. Screenshots and full documentation of the dashboard are available in the final report.
 
 ---
 
 ## Documentation
 
-📄 **Final Report**  
+ **Final Report**  
 [View the report](https://docs.google.com/document/d/1MPvJaH9XmbWt3SHa8Dd1ig7KRyGsBZMiOz_VJvmv5Jo/edit?tab=t.0)
 
-📊 **Project Presentation**  
+ **Project Presentation**  
 [View the slides](https://docs.google.com/presentation/d/1x71Ixo0CMmUvKcNXzTrJ3J_EArBzcNPD/edit?slide=id.p1#slide=id.p1)
 
 ---
